@@ -1,0 +1,14 @@
+{
+  "environment": "Node VM with DOM test doubles; no browser layout or browser downloads verified",
+  "passed": 8,
+  "tests": [
+    "simulator handlers: three runs, 60-run grid, CSV creation",
+    "36-case A/B DOM rendering",
+    "uninspected routine prediction cannot authorize operation",
+    "A/C click handlers: inspection, run, stop latch, reset and separate start",
+    "B/D actual click handlers block safely",
+    "LOOP saves actual two-wafer measurement references",
+    "clearing wafer list invalidates operation permit",
+    "23 events replay through shared state engine"
+  ]
+}

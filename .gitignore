@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.openai/
+__pycache__/
+.env*
+research_private/
+student_records/

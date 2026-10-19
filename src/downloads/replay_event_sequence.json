@@ -1,0 +1,208 @@
+{
+  "note": "제공 검사값을 확인한 뒤 동일 상태 전이 함수로 재현합니다. APPLY_C는 새 웨이퍼로 운전 허가를 초기화합니다.",
+  "events": [
+    {
+      "event": "APPLY_A",
+      "expected_state": "READY",
+      "expected_permit": false
+    },
+    {
+      "event": "START",
+      "expected_state": "READY",
+      "expected_permit": false
+    },
+    {
+      "event": "PERMIT",
+      "expected_state": "READY",
+      "expected_permit": true
+    },
+    {
+      "event": "START",
+      "expected_state": "RUNNING",
+      "expected_permit": true
+    },
+    {
+      "event": "APPLY_C",
+      "expected_state": "READY",
+      "expected_permit": false
+    },
+    {
+      "event": "PERMIT",
+      "expected_state": "READY",
+      "expected_permit": true
+    },
+    {
+      "event": "START",
+      "expected_state": "RUNNING",
+      "expected_permit": true
+    },
+    {
+      "event": "ESTOP",
+      "expected_state": "STOP",
+      "expected_permit": false
+    },
+    {
+      "event": "ACK",
+      "expected_state": "STOP",
+      "expected_permit": false
+    },
+    {
+      "event": "RESET",
+      "expected_state": "STOP",
+      "expected_permit": false
+    },
+    {
+      "event": "RESTORE",
+      "expected_state": "STOP",
+      "expected_permit": false
+    },
+    {
+      "event": "RESET",
+      "expected_state": "READY",
+      "expected_permit": false
+    },
+    {
+      "event": "START",
+      "expected_state": "READY",
+      "expected_permit": false
+    },
+    {
+      "event": "PERMIT",
+      "expected_state": "READY",
+      "expected_permit": true
+    },
+    {
+      "event": "START",
+      "expected_state": "RUNNING",
+      "expected_permit": true
+    },
+    {
+      "event": "APPLY_B",
+      "expected_state": "CHECK",
+      "expected_permit": false
+    },
+    {
+      "event": "RESET",
+      "expected_state": "CHECK",
+      "expected_permit": false
+    },
+    {
+      "event": "APPLY_D",
+      "expected_state": "CHECK",
+      "expected_permit": false
+    },
+    {
+      "event": "ESTOP",
+      "expected_state": "STOP",
+      "expected_permit": false
+    },
+    {
+      "event": "RESTORE",
+      "expected_state": "STOP",
+      "expected_permit": false
+    },
+    {
+      "event": "RESET",
+      "expected_state": "CHECK",
+      "expected_permit": false
+    },
+    {
+      "event": "PERMIT",
+      "expected_state": "CHECK",
+      "expected_permit": false
+    },
+    {
+      "event": "START",
+      "expected_state": "CHECK",
+      "expected_permit": false
+    }
+  ],
+  "format": "cmp-safety-replay-v1",
+  "model_version": "teacher-v1",
+  "rows": {
+    "A": {
+      "schema_version": "1.0.0",
+      "source": "SIM",
+      "run_id": "SCENARIO-A-0001",
+      "wafer_id": "SCENARIO-A-0001",
+      "stage": "EDU",
+      "timestamp": "2026-10-17T00:00:00Z",
+      "sequence": 1,
+      "pressure_set_kpa": 30,
+      "rotation_set_rpm": 60,
+      "pressure_kpa": 29.927,
+      "rotation_rpm": 60.1232,
+      "pad_wear": 0.15,
+      "slurry_ml_min": 201.4324,
+      "duration_s": 60.4913,
+      "initial_thickness_nm": 1000,
+      "mrr": 494.4271,
+      "inspection_thickness_nm": 501.5244,
+      "condition": "standard",
+      "split": ""
+    },
+    "B": {
+      "schema_version": "1.0.0",
+      "source": "SIM",
+      "run_id": "SCENARIO-B-0001",
+      "wafer_id": "SCENARIO-B-0001",
+      "stage": "EDU",
+      "timestamp": "2026-10-17T00:00:00Z",
+      "sequence": 1,
+      "pressure_set_kpa": 30,
+      "rotation_set_rpm": 60,
+      "pressure_kpa": 29.927,
+      "rotation_rpm": 60.1232,
+      "pad_wear": 0.15,
+      "slurry_ml_min": 201.4324,
+      "duration_s": 54.4422,
+      "initial_thickness_nm": 1000,
+      "mrr": 494.4271,
+      "inspection_thickness_nm": 551.3717,
+      "condition": "standard",
+      "split": ""
+    },
+    "C": {
+      "schema_version": "1.0.0",
+      "source": "SIM",
+      "run_id": "SCENARIO-C-0001",
+      "wafer_id": "SCENARIO-C-0001",
+      "stage": "EDU",
+      "timestamp": "2026-10-17T00:00:00Z",
+      "sequence": 1,
+      "pressure_set_kpa": 30,
+      "rotation_set_rpm": 60,
+      "pressure_kpa": 29.927,
+      "rotation_rpm": 60.1232,
+      "pad_wear": 0.15,
+      "slurry_ml_min": 201.4324,
+      "duration_s": 60.4913,
+      "initial_thickness_nm": 1000,
+      "mrr": 494.4271,
+      "inspection_thickness_nm": 501.5244,
+      "condition": "standard",
+      "split": ""
+    },
+    "D": {
+      "schema_version": "1.0.0",
+      "source": "SIM",
+      "run_id": "SCENARIO-D-0001",
+      "wafer_id": "SCENARIO-D-0001",
+      "stage": "EDU",
+      "timestamp": "2026-10-17T00:00:00Z",
+      "sequence": 1,
+      "pressure_set_kpa": 30,
+      "rotation_set_rpm": 60,
+      "pressure_kpa": "",
+      "rotation_rpm": 60.1232,
+      "pad_wear": 0.15,
+      "slurry_ml_min": 201.4324,
+      "duration_s": 60.4913,
+      "initial_thickness_nm": 1000,
+      "mrr": 494.4271,
+      "inspection_thickness_nm": 501.5244,
+      "condition": "standard",
+      "split": ""
+    }
+  }
+}

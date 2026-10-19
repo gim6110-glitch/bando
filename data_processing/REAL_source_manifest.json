@@ -1,0 +1,1335 @@
+{
+  "repo": "https://github.com/akangel0307/PHM-Data-Challenge",
+  "commit": "00d443e3f57379e3ad3d12c15a0738282b8210e5",
+  "files": [
+    {
+      "filename": "LICENSE",
+      "path": "LICENSE",
+      "bytes": 1064,
+      "git_blob_sha": "fc12fb0d898731b215bc0b95e73d2d30b083d496",
+      "sha256": "f310f7d449e75c0c2befb549274d22689c0bd68928d4e6c67ba97a394e8382ca"
+    },
+    {
+      "filename": "CMP-training-000.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-000.csv",
+      "bytes": 738720,
+      "git_blob_sha": "618b3c628adc464d38080f6c742d4c46ac4e8c93",
+      "sha256": "230c447e1d5c25ab5063c97aea34059179f09084300f3d7a8c17e3d1e3e35bfb"
+    },
+    {
+      "filename": "CMP-training-001.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-001.csv",
+      "bytes": 1110550,
+      "git_blob_sha": "16c32b29866ef5ce76a1a2ef3c7491d1eac29e1a",
+      "sha256": "7bf394b12b232f467e39fabaff6a755c0bbdda247c56576d48be9b9f84459ffc"
+    },
+    {
+      "filename": "CMP-training-002.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-002.csv",
+      "bytes": 1909401,
+      "git_blob_sha": "5ba550b74ed7048785e0fc662794d9940e9667a1",
+      "sha256": "e05f85cbfa319ac1f023f5215173f1efffb4f81065153a11879eb8c62997e652"
+    },
+    {
+      "filename": "CMP-training-003.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-003.csv",
+      "bytes": 1923279,
+      "git_blob_sha": "9ce865dece779b99428040253986b18ac325d5fc",
+      "sha256": "73414a86af94487133d9d46ee11fb724dc1da8bccc1e48d319b694b00342dcc2"
+    },
+    {
+      "filename": "CMP-training-004.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-004.csv",
+      "bytes": 1660109,
+      "git_blob_sha": "116e266cb4a7c9c1085ad211792072de487e33ef",
+      "sha256": "a8fdd7c6238fd345b6f39bccefda7ec165ba469bf3c73176a0a2facbeaba9944"
+    },
+    {
+      "filename": "CMP-training-005.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-005.csv",
+      "bytes": 985827,
+      "git_blob_sha": "df001caed9851ca29498fb376c398078b572da1e",
+      "sha256": "3517644e416b32a6423bda339afd4beb7cc62bdb96b2ba4afc4f5786fc1a0882"
+    },
+    {
+      "filename": "CMP-training-006.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-006.csv",
+      "bytes": 653323,
+      "git_blob_sha": "5f01b66afb5342aa730e6749e2f4f6b046f5da86",
+      "sha256": "db05895fd905edc9bb6aa70bb6996f6bac12bfce5081af9bb63763c8912a56ba"
+    },
+    {
+      "filename": "CMP-training-007.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-007.csv",
+      "bytes": 571749,
+      "git_blob_sha": "e96ed45182b0df95818cd2f74c926ffc91ee77e8",
+      "sha256": "599624454ac0d6a7209e30e19e5d82c6f5bccde2ae965738bd1874218657e9db"
+    },
+    {
+      "filename": "CMP-training-008.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-008.csv",
+      "bytes": 989408,
+      "git_blob_sha": "24b90c767cf0b3728134c1bd34ffa52e3b66c1da",
+      "sha256": "50106d8c82d109c3fb1818c1121a41994d1fa3119e679b4eea12938aec614f80"
+    },
+    {
+      "filename": "CMP-training-009.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-009.csv",
+      "bytes": 835487,
+      "git_blob_sha": "05ccda2f7c32b0f818ec3b5d0df2cbb679132b20",
+      "sha256": "ef6fcf2b4aae38f95205a3251302dc00bd6a890c90059a3d7ffc175806c37019"
+    },
+    {
+      "filename": "CMP-training-010.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-010.csv",
+      "bytes": 1253800,
+      "git_blob_sha": "db8d572ab7a90e5aafd2230ad582bc6268048e8f",
+      "sha256": "b7c60011ff00f6e2446ff1313c99149cb357572fbd8396f0eb3770348077a302"
+    },
+    {
+      "filename": "CMP-training-011.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-011.csv",
+      "bytes": 1018189,
+      "git_blob_sha": "eeb6b51fa0835e2fa50cd583e2b1f38eaa530112",
+      "sha256": "1d7b48f683f7356c1074f61deb5cee22c4e79a6fe062ea2a39206b1acfaafdac"
+    },
+    {
+      "filename": "CMP-training-012.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-012.csv",
+      "bytes": 787149,
+      "git_blob_sha": "c071ba75085770cc3c343e874cb62898ac3c5e62",
+      "sha256": "f2b2eb3ff9f76142ce69ae1676f9c00a84f73764222c2b51a511f0f3b6112aa3"
+    },
+    {
+      "filename": "CMP-training-013.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-013.csv",
+      "bytes": 358838,
+      "git_blob_sha": "78285a2e52b6034f4c7927398ef402e83587e1d6",
+      "sha256": "f16797b06bcc3138a7d6e4d1a554fa89fbbef451299fbf154b185becc47b8843"
+    },
+    {
+      "filename": "CMP-training-014.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-014.csv",
+      "bytes": 248893,
+      "git_blob_sha": "31f1b230685c058e39d31ecef64e713fedf34166",
+      "sha256": "00c27f408fb87b8a193913bdfdd7e65fca34723e3b47809238b5a7e45ed62268"
+    },
+    {
+      "filename": "CMP-training-015.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-015.csv",
+      "bytes": 1350039,
+      "git_blob_sha": "da54dd601d6c7d0b1ddf60adbd6300658beefb58",
+      "sha256": "2b26d5c2d99a3eb62a16bd62a010ab8ee85d7bc9dceb83fca08f8315a5c852d0"
+    },
+    {
+      "filename": "CMP-training-016.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-016.csv",
+      "bytes": 843044,
+      "git_blob_sha": "33f09e41f3b7b5541d28ff850c971ed31c3802db",
+      "sha256": "87dc3f371b428efeaa7a052c7caf3180865cf3cfe9aad3eb7fbcb96ee7d68f56"
+    },
+    {
+      "filename": "CMP-training-017.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-017.csv",
+      "bytes": 726920,
+      "git_blob_sha": "90d1c42159c2e4328ea3c35f270d955b22b1ad1f",
+      "sha256": "805951409463fdae485521334db0175bf1bfc76307809f23284f67f9d51ca96d"
+    },
+    {
+      "filename": "CMP-training-018.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-018.csv",
+      "bytes": 188883,
+      "git_blob_sha": "0518f0c67ca5d89d99452e5abc778b86ec6c1a26",
+      "sha256": "d20debe0f705f7d3f134c3daad118be1394cc9af390b3fbbd5929582e23973d4"
+    },
+    {
+      "filename": "CMP-training-019.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-019.csv",
+      "bytes": 50903,
+      "git_blob_sha": "8be3ffede3f879faaf8187e00253d902cf80f235",
+      "sha256": "5b9429f821d4361e08366211266bc054d70510fd589d49b3c1da895fc47e0b0b"
+    },
+    {
+      "filename": "CMP-training-020.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-020.csv",
+      "bytes": 268479,
+      "git_blob_sha": "69a3153bc55a1d7ccd215cb6de60e677e06a3c00",
+      "sha256": "6294c9e09b4ff1a25cb08c1d4a94b100272995845fc3bc6641b5ad3dedf50ad5"
+    },
+    {
+      "filename": "CMP-training-021.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-021.csv",
+      "bytes": 596284,
+      "git_blob_sha": "c8f763adf0942a5b9aefb31291539c2a06eaffa3",
+      "sha256": "819926d916378ea12a8d8436f5ccf1ac3da004031c816d72cd882c7bd23bc396"
+    },
+    {
+      "filename": "CMP-training-022.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-022.csv",
+      "bytes": 1448867,
+      "git_blob_sha": "85202616b2c3c9f9146056f7fd13d0f3f55a26c9",
+      "sha256": "0050ace3626aaf805c2c49b93a2f5445d0c69036af1240420c49adfc40ad3f2a"
+    },
+    {
+      "filename": "CMP-training-023.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-023.csv",
+      "bytes": 2115689,
+      "git_blob_sha": "401321710415dbbbcd0ce0be3f066d2210e70b36",
+      "sha256": "6d86fffe2a884fa679b29437b8ece1f4a59fc3277c4fd95573b6ad89cae1fd46"
+    },
+    {
+      "filename": "CMP-training-024.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-024.csv",
+      "bytes": 538659,
+      "git_blob_sha": "8bf7241df13ff9a18213d83510f9de46c099a544",
+      "sha256": "8e37861ff20310c088d14d58ebf741d0192725a0056485a8ff7798e3b9b04fc5"
+    },
+    {
+      "filename": "CMP-training-025.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-025.csv",
+      "bytes": 2066925,
+      "git_blob_sha": "6a2814a1dc5bc5abfa8e5c58193154f73f3fc6c9",
+      "sha256": "a9c0de2149afa05759dee5d1256f01b77ff1effc39729750481b262c2cc85798"
+    },
+    {
+      "filename": "CMP-training-026.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-026.csv",
+      "bytes": 1686730,
+      "git_blob_sha": "62d7a81a12903643d3d998ebcd727db9d21ffa62",
+      "sha256": "6fc46e66ad25aeb8f9406cbfd852c98c94cf5a3f23dade1a444060c6dfca997a"
+    },
+    {
+      "filename": "CMP-training-027.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-027.csv",
+      "bytes": 1087341,
+      "git_blob_sha": "1eb768b1460eb384382ce8216e3bf14b89909437",
+      "sha256": "182bc98482670f73dedec8f84ad318393ddace600d24b72487a02d54f1bb0aae"
+    },
+    {
+      "filename": "CMP-training-028.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-028.csv",
+      "bytes": 1133493,
+      "git_blob_sha": "f92d202f4d206e3b893729882c5a64d5a496b716",
+      "sha256": "14aa22d80013b1752626b9467b85cc1c297e83d8bb051173913c644ab2e6ffee"
+    },
+    {
+      "filename": "CMP-training-029.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-029.csv",
+      "bytes": 627450,
+      "git_blob_sha": "7d653faffeabe6c897c2a8713b838f57c8fd4119",
+      "sha256": "8f5e4ad267a015a602c0ff253daa2b0502fada456da6012f05745df2f507955f"
+    },
+    {
+      "filename": "CMP-training-030.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-030.csv",
+      "bytes": 483349,
+      "git_blob_sha": "bc7426b6631837b105263a55eb3b4c8ab0d09138",
+      "sha256": "0584e62c0a5b628a648c089776eefded1a75d1a335ef44e4127647c136b5e6d6"
+    },
+    {
+      "filename": "CMP-training-031.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-031.csv",
+      "bytes": 66071,
+      "git_blob_sha": "636a388b2c89ba51269b8e6f0d9d65d1cecfb82e",
+      "sha256": "5b0c22b11215247028fcd2f1929d672d472c7764019e90096b522b82eed43ef7"
+    },
+    {
+      "filename": "CMP-training-032.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-032.csv",
+      "bytes": 512393,
+      "git_blob_sha": "4f95d4ee880906058c6dad3abdf8552b9b51407b",
+      "sha256": "27430a4bf83860f11620b9ea9a6ccb8e97fee2f827d2efabaa656d9646ea804e"
+    },
+    {
+      "filename": "CMP-training-033.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-033.csv",
+      "bytes": 1239234,
+      "git_blob_sha": "5f99f2adf688a3d28761458bf356d8a17761adcf",
+      "sha256": "b1f3d791183adb813f8347e99685e28140c239e756f72e9330539e5a806cc418"
+    },
+    {
+      "filename": "CMP-training-034.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-034.csv",
+      "bytes": 372413,
+      "git_blob_sha": "98dd99fba7eaff1cab7427a4d3e76bfa6d04fb3f",
+      "sha256": "f5bb542c97cffdc475402f90fb3740544140efee5c77b922052157a5b33ffa9e"
+    },
+    {
+      "filename": "CMP-training-035.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-035.csv",
+      "bytes": 881482,
+      "git_blob_sha": "275796f82a4ba2a9c7930111db4fe09e70246f6b",
+      "sha256": "6df0fc29bbe26369df55a8a48602fa34d5ed4572b52fcf7d5e88b1a2c1c4e44b"
+    },
+    {
+      "filename": "CMP-training-036.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-036.csv",
+      "bytes": 745375,
+      "git_blob_sha": "e906ba121a356068fd4b1585eb797de8746ce493",
+      "sha256": "b49f1207e17925e7a77fab5aba1b4e4486897ab026f010eb592a6b8b03cae282"
+    },
+    {
+      "filename": "CMP-training-037.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-037.csv",
+      "bytes": 701847,
+      "git_blob_sha": "72318c31492dcb4e65e83f981429178ffda94bb4",
+      "sha256": "435a78d0e5050ea96a31dbbc639500b1839324e34f2b78aeb5a0d115f2a94030"
+    },
+    {
+      "filename": "CMP-training-038.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-038.csv",
+      "bytes": 649981,
+      "git_blob_sha": "35b157dd9073d54a05b5697444439fcb8480ae33",
+      "sha256": "6db06a842757243bd5a73395ce36f86b59a17ab6980e0ae2ca00a07dc66fe2f9"
+    },
+    {
+      "filename": "CMP-training-039.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-039.csv",
+      "bytes": 442957,
+      "git_blob_sha": "f98b13d3899bef14292ed26b40e62f60c8f7090d",
+      "sha256": "36e23d275b4799eb12508c86a78265cc315f2763f8e6f40e361a64eccef8fa2b"
+    },
+    {
+      "filename": "CMP-training-040.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-040.csv",
+      "bytes": 164824,
+      "git_blob_sha": "5d39773623892ad4e43ba3f17e039e6f0535fc48",
+      "sha256": "c3836289416931dd5a29efe7dbef7eda1d70c426f03e8c0946641f0164993049"
+    },
+    {
+      "filename": "CMP-training-041.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-041.csv",
+      "bytes": 47920,
+      "git_blob_sha": "b838c1e8d521d715799bfd1f6fdf5596ad8bc060",
+      "sha256": "f863f031acb05b2e8d14a5b142e7c4a76e1721d2afafbfea3d4c6b136588bcc7"
+    },
+    {
+      "filename": "CMP-training-042.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-042.csv",
+      "bytes": 202654,
+      "git_blob_sha": "a432a1eea8366b3cfc78768373c378c11edac2a8",
+      "sha256": "ebef414d55c951af21445d6ec90596869d0e1a7c5a0d84bebb9e909f95116ea2"
+    },
+    {
+      "filename": "CMP-training-043.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-043.csv",
+      "bytes": 601618,
+      "git_blob_sha": "bba769d662aadbf2edc596dc5e21794c507eb66e",
+      "sha256": "1ca79d711f0ffd9015bed963c1de81fb366a8a8964bb830a7f923ac6ea7244db"
+    },
+    {
+      "filename": "CMP-training-044.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-044.csv",
+      "bytes": 131526,
+      "git_blob_sha": "8a546a01907b46cbb1ac408fbc9d3db814e6b2a3",
+      "sha256": "a07572ff361c10958ded0c99cb7c29ab69a2888a52eca2fcac321a5d5ede45f5"
+    },
+    {
+      "filename": "CMP-training-045.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-045.csv",
+      "bytes": 239881,
+      "git_blob_sha": "7a8014c30a8db9f1a9c71fda42f86106be104321",
+      "sha256": "7a2b48f4992f061497ce44445f75a55cd0dbff7c5976cab3eba09c2e72843df1"
+    },
+    {
+      "filename": "CMP-training-046.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-046.csv",
+      "bytes": 77613,
+      "git_blob_sha": "0059e9a9806693fcc8cb51b47dc5fae066f7b82d",
+      "sha256": "ef6dab0312c9dd3f4430876e4815a0d076f499c0974014dbec8168edc6622539"
+    },
+    {
+      "filename": "CMP-training-047.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-047.csv",
+      "bytes": 664387,
+      "git_blob_sha": "cb3f26245032eaa94f1a2764d84ba6d62c5aabd0",
+      "sha256": "c06352c3a65283c9b144016df1b61052ab3851bf654013712c01a9bda0298e6f"
+    },
+    {
+      "filename": "CMP-training-048.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-048.csv",
+      "bytes": 295540,
+      "git_blob_sha": "a009b81a6469a25c7faed1f15d6a3906126186c2",
+      "sha256": "1b3bdedb69833c7a56bccc3adc2b64277433115299bca46427dcd296d0a77cbf"
+    },
+    {
+      "filename": "CMP-training-049.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-049.csv",
+      "bytes": 227424,
+      "git_blob_sha": "149ccd588e75067f377230198b6deaa64e655870",
+      "sha256": "31580db5f5b363c8e55de7aab61ebf811f21c8ef2c179bdcf1cfb6c7a32ed7fa"
+    },
+    {
+      "filename": "CMP-training-050.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-050.csv",
+      "bytes": 498723,
+      "git_blob_sha": "838bc61a473d6044808b27ab93afe037d1c2a84f",
+      "sha256": "544ca41e780fec184183977226a701b9f59f597047fff96a7603b7aa6fee195f"
+    },
+    {
+      "filename": "CMP-training-051.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-051.csv",
+      "bytes": 262879,
+      "git_blob_sha": "cc72a2fa81de6a3fd8ad2fc45778f6559a718801",
+      "sha256": "febaed6502c7350a30688e19ee40da96699a9f5ef0ef3755d6d97a9c3afb85a4"
+    },
+    {
+      "filename": "CMP-training-052.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-052.csv",
+      "bytes": 408343,
+      "git_blob_sha": "8aed88f1bb65c3a0f2d24b2ccea83ac3b12b99f8",
+      "sha256": "f58c6df6deba310cfb234170ddd74d9acf98bc01367ae4f1b6852af84bbb630a"
+    },
+    {
+      "filename": "CMP-training-053.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-053.csv",
+      "bytes": 358723,
+      "git_blob_sha": "55d85f7b98bde349625b565506fe172134dbfd79",
+      "sha256": "f69d44a164bd59d00b5ff6f2e77434d46524bdf26457f19f4a798dbd258bdf7c"
+    },
+    {
+      "filename": "CMP-training-054.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-054.csv",
+      "bytes": 431140,
+      "git_blob_sha": "7114a4e03ac860f5524dbe636a5d11a68ffef20e",
+      "sha256": "9d411448409230cc1829d4cd43c34e0f8579e24b426b2f2153b367708274b838"
+    },
+    {
+      "filename": "CMP-training-055.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-055.csv",
+      "bytes": 433887,
+      "git_blob_sha": "13637c2ed7b6245f0db619e9039ef9cb7f74f3eb",
+      "sha256": "5c5ae7a4cb810377e1a5bfd65098f674389414a00e77212822975f93f6c8dcec"
+    },
+    {
+      "filename": "CMP-training-056.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-056.csv",
+      "bytes": 170509,
+      "git_blob_sha": "cd08eb7e570f64711d5b9f04d2652c7d0046fe4f",
+      "sha256": "2c45d51c593669efb8b625354bd1b7b9a6990cc481b95b332aecf0e108b63e70"
+    },
+    {
+      "filename": "CMP-training-057.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-057.csv",
+      "bytes": 129422,
+      "git_blob_sha": "df2e18eb24e296e1ebb011e5781deceefbd193e2",
+      "sha256": "f268447270e74f0eed4db185adad8fbe85482fda0aff173d133e5480f8344ff1"
+    },
+    {
+      "filename": "CMP-training-058.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-058.csv",
+      "bytes": 139162,
+      "git_blob_sha": "acfb57bd826df5cc17309725fb59f1a49c9b4a38",
+      "sha256": "a5718e9cee69ec09003ca4fe2edc82d673de61fc08f409f35fa8182e453aa1d0"
+    },
+    {
+      "filename": "CMP-training-059.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-059.csv",
+      "bytes": 577018,
+      "git_blob_sha": "b9a6ac899a3e81717a023423bdee686dc9dcec52",
+      "sha256": "249fb9031ff03fb7aa37448c4c0cacefef48837c25d5a6603a7b9e4e50cfa7a3"
+    },
+    {
+      "filename": "CMP-training-060.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-060.csv",
+      "bytes": 968273,
+      "git_blob_sha": "9796df02f9f1319e660eaa44734613c660c4638a",
+      "sha256": "54a9a7ecbfeb772da713205e8317d6f51f3a14b7a45c42604a5c49aa322be5fc"
+    },
+    {
+      "filename": "CMP-training-061.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-061.csv",
+      "bytes": 310124,
+      "git_blob_sha": "8f38dd7c460428461f464b526481f0af40af2271",
+      "sha256": "ded142201d2acf4c137b317306f9d587d61a7e3aa747e71c6ea5e08ffc12cab5"
+    },
+    {
+      "filename": "CMP-training-062.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-062.csv",
+      "bytes": 573013,
+      "git_blob_sha": "668885ffa5d1cedbe36b15f83269f08658d8ba67",
+      "sha256": "c82d21f95a9190330072d4064351fcfc4468464ab158bd28160c791fc67d0119"
+    },
+    {
+      "filename": "CMP-training-063.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-063.csv",
+      "bytes": 123939,
+      "git_blob_sha": "cb4eb60339f5a6e4e8ffd9ecc0cadeffa564032f",
+      "sha256": "5d2556da06daa905173fa20f2ec486ca9d2484627bebac7183e07bf4647a0b51"
+    },
+    {
+      "filename": "CMP-training-064.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-064.csv",
+      "bytes": 1154160,
+      "git_blob_sha": "962d632fb6f8a3c270150ac243216c163a2b1854",
+      "sha256": "e16e806db697b0a40f6f10ec56408408191925115caad97f9d66d82ccc2b9d0f"
+    },
+    {
+      "filename": "CMP-training-065.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-065.csv",
+      "bytes": 518115,
+      "git_blob_sha": "e618b19130c4189016952ff6a3d516c7787e02d8",
+      "sha256": "cbfd1332f257647451b43ec84d29595253847f8d551bbee126554e734c5f9001"
+    },
+    {
+      "filename": "CMP-training-066.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-066.csv",
+      "bytes": 462,
+      "git_blob_sha": "9e0193cc918e81028e0e6ed3c5209a0af781cfd9",
+      "sha256": "0a23520779b7f811e9f899b9a080b8c03345fb5083b02998c030b436563e81f0"
+    },
+    {
+      "filename": "CMP-training-067.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-067.csv",
+      "bytes": 617074,
+      "git_blob_sha": "acc954e2f1d15fd9cde316103b7ada9de2daa741",
+      "sha256": "216873fb0b8dd82f1fb5a7c1ee14654a9ca90dafbdac58b5a4ea9f216fd7198d"
+    },
+    {
+      "filename": "CMP-training-068.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-068.csv",
+      "bytes": 751761,
+      "git_blob_sha": "2adb74ed15c238d684958bfb46441467c5d3619d",
+      "sha256": "7b3253d4bf2a7d5b4165a186beeb8f4dde03361757960772c7a9b2c75572353d"
+    },
+    {
+      "filename": "CMP-training-069.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-069.csv",
+      "bytes": 805339,
+      "git_blob_sha": "5b0c1b1bf84504a1d66089f6d71268cc448690b0",
+      "sha256": "d6f2ec648a0bbf60d2969ef1baf50dcbf3234d84cdccb9ec4e3ec0859b499e0a"
+    },
+    {
+      "filename": "CMP-training-070.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-070.csv",
+      "bytes": 383225,
+      "git_blob_sha": "094c438c1d237440965dcd986b2b18357575b887",
+      "sha256": "d225171828b699ad16ce36e60f241d8d137319fb4bc8bab1a6f8c8e2250cb5f3"
+    },
+    {
+      "filename": "CMP-training-071.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-071.csv",
+      "bytes": 1044725,
+      "git_blob_sha": "366aac5b0b8c1bc604c458dfe2dcb8638a2282a1",
+      "sha256": "b01c8e229ebcaedcaa61e68025a016df24affd6a0c8903147b57f7261803440b"
+    },
+    {
+      "filename": "CMP-training-072.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-072.csv",
+      "bytes": 1075166,
+      "git_blob_sha": "08810cec2ef33cd865da6c47756b95a851832c7f",
+      "sha256": "58789e0731d768982964e81649be019d9f9bf0fd29271156587ab5ca42679adb"
+    },
+    {
+      "filename": "CMP-training-073.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-073.csv",
+      "bytes": 1288853,
+      "git_blob_sha": "3912f8af9936d642c49ec995dcc376f09d9a3730",
+      "sha256": "7211ae952b8b86bdbaf5d4a21a95f02e8c54adb196d403f2ea2ad772dc3d5809"
+    },
+    {
+      "filename": "CMP-training-074.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-074.csv",
+      "bytes": 775885,
+      "git_blob_sha": "c3005f8d57e23963a4c9a9930d0a9e70a2426d81",
+      "sha256": "f27f10b4f7ce963bd9b6408162bd0b4bb57bb585474eb54eb7774950f7170721"
+    },
+    {
+      "filename": "CMP-training-075.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-075.csv",
+      "bytes": 756613,
+      "git_blob_sha": "686e9fcbe3846ed3eb71ebe98c3a27222b7513a9",
+      "sha256": "bacb6f64a5cbf310ece6d9401cd3d61e622e406439bf9be18bf12c12b9b554a6"
+    },
+    {
+      "filename": "CMP-training-076.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-076.csv",
+      "bytes": 374664,
+      "git_blob_sha": "e1408a8ec98bfa419175c625fc800d3a58bac081",
+      "sha256": "b77bdadf747ef2437fa48ef4e39ac63fe5ec1be9c0a6e383afd837777545ac46"
+    },
+    {
+      "filename": "CMP-training-077.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-077.csv",
+      "bytes": 1232510,
+      "git_blob_sha": "27f6acc48216aa2c84e291d33021e6f36e6c746a",
+      "sha256": "307e9cda98ce2d4fe6e5d0b71127bb0d2c04a6f2cae3f99b88ce17407df6e398"
+    },
+    {
+      "filename": "CMP-training-078.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-078.csv",
+      "bytes": 1169961,
+      "git_blob_sha": "1ea7e3982e5afbc2c375f95b73897c77114b4266",
+      "sha256": "d8695d39dfabcce14e07c61562f638552ff3784d2cc44f79a8b2a1a69f0fc2d1"
+    },
+    {
+      "filename": "CMP-training-079.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-079.csv",
+      "bytes": 1905605,
+      "git_blob_sha": "93a6bfc9f1218fdfcb74126e6e97a9fdf068329e",
+      "sha256": "f0772b30d53d4a30b0516973df5dcbe8284ad272d9c5226fd27345c08309cdb3"
+    },
+    {
+      "filename": "CMP-training-080.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-080.csv",
+      "bytes": 1034012,
+      "git_blob_sha": "7c76600290ce1743a9a340c67ef8e727aab2262a",
+      "sha256": "097cf34f856da086c870343c6e5f4ada3beec6cf27183defd636a1baa619693f"
+    },
+    {
+      "filename": "CMP-training-081.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-081.csv",
+      "bytes": 671272,
+      "git_blob_sha": "699a89f859e4d6f9d0fc6d7991f8d05439ce0615",
+      "sha256": "c491fa65f8650c1339dfa2fa40a14335489cfc342339301eb93a4b8a69c31cd8"
+    },
+    {
+      "filename": "CMP-training-082.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-082.csv",
+      "bytes": 165382,
+      "git_blob_sha": "f61a8ca8d0ba10cd3f858a8c06696d397a6e7c89",
+      "sha256": "9b56947d9dd0702beb074c0a4813b656a06720d003bc33207e7cb88c98b95445"
+    },
+    {
+      "filename": "CMP-training-083.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-083.csv",
+      "bytes": 604353,
+      "git_blob_sha": "a37f0ae269e814f0fdc8eddc00cef66ee2a11b86",
+      "sha256": "a633794c795188934d74a4f779b250c4a2106dff45651a675ff3668a92d55325"
+    },
+    {
+      "filename": "CMP-training-084.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-084.csv",
+      "bytes": 97779,
+      "git_blob_sha": "b82da1bf8ed825ebea3822dfaa29b32ebf38130d",
+      "sha256": "e72f6c3c212df53b4192fecc18bd95813bffba493af9fb90f797cda64ab956b3"
+    },
+    {
+      "filename": "CMP-training-085.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-085.csv",
+      "bytes": 385158,
+      "git_blob_sha": "ad3b409ba43563540cbb148f59de33612aec6f5f",
+      "sha256": "e69a9328dcfe620f44437048989e02adb10312ac9bbd77fedd02572a2d6d794a"
+    },
+    {
+      "filename": "CMP-training-086.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-086.csv",
+      "bytes": 228188,
+      "git_blob_sha": "df3a0d135cc3cc7a8f9a9c10410876424312a503",
+      "sha256": "e9dba097a270b76b1bc07facfab8f3bccb9eaf58f4cee12788c44bd3ad2b2fc4"
+    },
+    {
+      "filename": "CMP-training-087.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-087.csv",
+      "bytes": 408898,
+      "git_blob_sha": "7b2bd9270c70149e42ddc65e20718f3e48763ce6",
+      "sha256": "f96503e2fea09c45fdb23b4ca167835a3f82bec48895eb820d0e9289e1fdd19d"
+    },
+    {
+      "filename": "CMP-training-088.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-088.csv",
+      "bytes": 493397,
+      "git_blob_sha": "8a2d617d1aa5999c0fe62f60acb5bc4023f93099",
+      "sha256": "71fb25dd48132d3d4b9a78dff204527db9799e4cd0bcc979281a653416f8ea8a"
+    },
+    {
+      "filename": "CMP-training-089.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-089.csv",
+      "bytes": 839586,
+      "git_blob_sha": "e79b5a0bf7a68d07231bbe319ea43bd6582df984",
+      "sha256": "6b05d2c00102e5e8d908856e0a8aa3ea245c424ec6b27937569038b1a42a851d"
+    },
+    {
+      "filename": "CMP-training-090.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-090.csv",
+      "bytes": 709989,
+      "git_blob_sha": "6832420a35a62aac3b807c7b7faf01048a699f28",
+      "sha256": "efe3e6b2776fff49e77463f92081ad1505336acc81a599a242e2b5e2ee11bca9"
+    },
+    {
+      "filename": "CMP-training-091.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-091.csv",
+      "bytes": 1263226,
+      "git_blob_sha": "e8fb0c716bdf9a2f03e8386b8ee6ecd454ba461f",
+      "sha256": "49704e2cdc7364c75909c5c2372166cc3c84dd47c07fb7d1483494f75c132f59"
+    },
+    {
+      "filename": "CMP-training-092.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-092.csv",
+      "bytes": 753256,
+      "git_blob_sha": "80ab9dcfa425eaf8a0c9009832984f8b9a5a43ce",
+      "sha256": "13e818ccbbb52b0ce26198a05c7be9c75d63b40325a22c555ef98b2a891448d0"
+    },
+    {
+      "filename": "CMP-training-093.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-093.csv",
+      "bytes": 640963,
+      "git_blob_sha": "11f172ac5cb961cc99952a6e3b949923325449c9",
+      "sha256": "0db817e6971cadef0101b355985532b0bf27bf9899e63939a879ce0d2d64c585"
+    },
+    {
+      "filename": "CMP-training-094.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-094.csv",
+      "bytes": 1056831,
+      "git_blob_sha": "4c21e5990689ceebc703b11168d39d5f4f66eeca",
+      "sha256": "bb22764ca6086284dc95bdb0839b84369e3136c6d0657247d36e26bab462f8ea"
+    },
+    {
+      "filename": "CMP-training-095.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-095.csv",
+      "bytes": 639602,
+      "git_blob_sha": "b805a92353ef3f9c845019ff2df621f3d1efc407",
+      "sha256": "b101347001a06ed37f3918962baa2829f2c5141cc206266d224eeaf835f965a0"
+    },
+    {
+      "filename": "CMP-training-096.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-096.csv",
+      "bytes": 578831,
+      "git_blob_sha": "e2641c47e5a3586f42b6a7a8488e53829c6abc83",
+      "sha256": "3f93370d21c4e3c8b9cf53510489ac45945f9e837ea34ef2c2c0fcec0fa440ca"
+    },
+    {
+      "filename": "CMP-training-097.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-097.csv",
+      "bytes": 2452682,
+      "git_blob_sha": "5cff0b19aa7af5db26c01f0973cbc6fb9a2092a8",
+      "sha256": "8c77a017362d84cfb74497a010b81560242a9fc4a38fc229e84b1882d612c8e7"
+    },
+    {
+      "filename": "CMP-training-098.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-098.csv",
+      "bytes": 713070,
+      "git_blob_sha": "17cbb65515f8ef44beb853acb1c60c81766bfe15",
+      "sha256": "be9d1984fe5cd32df974325f5d0d5ee5f7f5a558406066b1356e9ef31abab439"
+    },
+    {
+      "filename": "CMP-training-099.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-099.csv",
+      "bytes": 494268,
+      "git_blob_sha": "14d607a276dda93a2155f9a0c7e707bda78e8a4b",
+      "sha256": "dd08f86c3c54d4df12bb93b879c39caa547d491e6cb48129d834b2078d8a8c33"
+    },
+    {
+      "filename": "CMP-training-100.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-100.csv",
+      "bytes": 509539,
+      "git_blob_sha": "5822a2dd453718e4114c09ca7626a3b7e7a21ace",
+      "sha256": "cedf1a0c085d392c1e6f0be79748d6480006e1a1ff43a89ac0f29a9499974bd2"
+    },
+    {
+      "filename": "CMP-training-101.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-101.csv",
+      "bytes": 198396,
+      "git_blob_sha": "f2933b06711bdc61e016473c8ae2ffac936c00de",
+      "sha256": "8f15f568a5292b73d857e148b8498ed9f25d7c8ed73c7c761419edee2307534b"
+    },
+    {
+      "filename": "CMP-training-102.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-102.csv",
+      "bytes": 337888,
+      "git_blob_sha": "374a499c6e874b83795141b0f76997751c15605e",
+      "sha256": "d8ec4cd2c80dd41771b6a90c98eb4bbb860f182d790660902ba15ee513c57980"
+    },
+    {
+      "filename": "CMP-training-103.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-103.csv",
+      "bytes": 883128,
+      "git_blob_sha": "6333104b4bde9a2b8aae5427a02cef6ef7dc4a5e",
+      "sha256": "926f8f958a0d6f2901381a5637d0280423b8d05cf90b4081bfaf0383cfe85293"
+    },
+    {
+      "filename": "CMP-training-104.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-104.csv",
+      "bytes": 2269714,
+      "git_blob_sha": "70cbf949ef943b0e23ad1a6c50fb12f57323c3db",
+      "sha256": "05b33cea78b40dfe91cdcc1a4f1b9f41599f0e7761961beadaf8178ee91e74c6"
+    },
+    {
+      "filename": "CMP-training-105.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-105.csv",
+      "bytes": 861976,
+      "git_blob_sha": "72edc65b0a18fcaf5ce4c98610a93d35846b8e7a",
+      "sha256": "b5bb50fa435d069bab9fe9df3ea5b46ad2f1ae3d4b8b346131b4ac4781752abe"
+    },
+    {
+      "filename": "CMP-training-106.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-106.csv",
+      "bytes": 1889419,
+      "git_blob_sha": "3b6997d4b2d8bce8b43376eec4f29ab2668cafff",
+      "sha256": "20e584d83ed29c3620877de6c5a6a7a38d9eef2c5235cb27f6e858e9066b1727"
+    },
+    {
+      "filename": "CMP-training-107.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-107.csv",
+      "bytes": 1319944,
+      "git_blob_sha": "e26c5097c3b2d6bd1d12dfb4a91a5ec018f246e9",
+      "sha256": "e323cb3b03b534889128adcd1b84c52239278e66d43732d1ae08dee7451eeceb"
+    },
+    {
+      "filename": "CMP-training-108.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-108.csv",
+      "bytes": 224035,
+      "git_blob_sha": "c71c302645aa6ece4a2085b571af3f9caeb1810d",
+      "sha256": "3eddaf16da717db935a5fa5187dc0c9fbe0725ca0e66fe88c5b687f51453d49e"
+    },
+    {
+      "filename": "CMP-training-109.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-109.csv",
+      "bytes": 597329,
+      "git_blob_sha": "60c68dc582794b388fc63e4fec84875ce62e0eb1",
+      "sha256": "1f735a5dc9708af172e8341a35ec23f88edb464ff73b19893f270ce319e3c95e"
+    },
+    {
+      "filename": "CMP-training-110.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-110.csv",
+      "bytes": 530783,
+      "git_blob_sha": "005b9c844024155b9bea60eea34bd5829a0050ba",
+      "sha256": "4c022b3a4dcc74f813f308f1bff6634cce5e9b730b24b55731c07ea28ce703e2"
+    },
+    {
+      "filename": "CMP-training-111.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-111.csv",
+      "bytes": 451471,
+      "git_blob_sha": "46883242546a84aeca6473a4840fcfec733e9ba7",
+      "sha256": "0014291330390afa317ea9f772fdce112cc203192b194bad85ee4d0aeb0c4bba"
+    },
+    {
+      "filename": "CMP-training-112.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-112.csv",
+      "bytes": 631583,
+      "git_blob_sha": "ea7de0a2ea8133487fd94757ec0d8b4a96038327",
+      "sha256": "b7a666fa6de6a5174361da368d6a80a88dab2ddcf8d3a157d73fb35e6b98b8c3"
+    },
+    {
+      "filename": "CMP-training-113.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-113.csv",
+      "bytes": 459726,
+      "git_blob_sha": "e79f4f971a44b2357de4156539d2bd29a33b39a7",
+      "sha256": "0a772ce36bce85731d38e2082441bbda69817bf32b4b7edfb19f5f67fc2321bd"
+    },
+    {
+      "filename": "CMP-training-114.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-114.csv",
+      "bytes": 957288,
+      "git_blob_sha": "43bf227aacbd25ee011498990b24380997a4a6ab",
+      "sha256": "fa07d3717763bb22200539b7a6493d2eeea78bea44769c0dcf8bc4fb090c906f"
+    },
+    {
+      "filename": "CMP-training-115.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-115.csv",
+      "bytes": 816356,
+      "git_blob_sha": "b4fc2b521cf94921c5c1326b0e1811e4498339b5",
+      "sha256": "75ac019af65f42233b3b6448c0cd0d804a7acd6f43cacdc754d94f9a7fa2b9c7"
+    },
+    {
+      "filename": "CMP-training-116.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-116.csv",
+      "bytes": 268931,
+      "git_blob_sha": "00600ba67fa3a4f36bb131483ca1f76712ce3e58",
+      "sha256": "54f2af13502688c002ea35fb437aaafdd18fd6af9c8f3b9b18c025504b6af167"
+    },
+    {
+      "filename": "CMP-training-117.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-117.csv",
+      "bytes": 1014955,
+      "git_blob_sha": "c30a852502580c4f9fd6f45b6acdc2add1a91833",
+      "sha256": "2e3d6ea791dc1ee7bb9ef96211c6dd9432088333f06d6601fc8e1c1ec72b568f"
+    },
+    {
+      "filename": "CMP-training-118.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-118.csv",
+      "bytes": 298931,
+      "git_blob_sha": "667722da8081a0816de1a3280550751bd4e28eef",
+      "sha256": "dc6c2d7f2f1c7d91c9b13f33c3821022ed551ad377b124a18e1696a9ec039695"
+    },
+    {
+      "filename": "CMP-training-119.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-119.csv",
+      "bytes": 931586,
+      "git_blob_sha": "5f88e3c2242929148ba38a46411e5cbf9069623f",
+      "sha256": "57c662305765f03277acb5d680c6f1631931a236ad75ee35229e1f8081965f42"
+    },
+    {
+      "filename": "CMP-training-120.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-120.csv",
+      "bytes": 1556328,
+      "git_blob_sha": "b9bc4999ab7bfc4d045f8f579c89e38108720550",
+      "sha256": "7144396b36a87145d918c198c7e1bcdbce7fdbf7ad52e32aa010540449deffae"
+    },
+    {
+      "filename": "CMP-training-121.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-121.csv",
+      "bytes": 1478514,
+      "git_blob_sha": "9f4fa13213902e286174eeb412b455b153add701",
+      "sha256": "61d5400f547f39704d7210a52d5e41aac13c2ee51de09674ea5c470a6c405d32"
+    },
+    {
+      "filename": "CMP-training-122.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-122.csv",
+      "bytes": 717144,
+      "git_blob_sha": "44c360709978a260e6b910042702f71b2b1ba162",
+      "sha256": "460acec086bf7bfdd03ca07253c4930907d0cc6d444926de891cb55868bb6ab6"
+    },
+    {
+      "filename": "CMP-training-123.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-123.csv",
+      "bytes": 399716,
+      "git_blob_sha": "7820f07fcd84e5ff9fc69fb98887f41e5b41b78e",
+      "sha256": "3c302374fa47520a31d7a42c02a0749f7e338ce692c0a1c65a5bd7756e92746a"
+    },
+    {
+      "filename": "CMP-training-124.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-124.csv",
+      "bytes": 221753,
+      "git_blob_sha": "fc25478a07f8daed70d739d5f9462c86089682d3",
+      "sha256": "f039d4a5c0ba221ecd3ef69f2475bc488735f14b156cf6332dc1526a21b97410"
+    },
+    {
+      "filename": "CMP-training-125.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-125.csv",
+      "bytes": 1156780,
+      "git_blob_sha": "81f5ae5b238bf2507836fd26165d537ee5969ca3",
+      "sha256": "04208e0342787441dbc3ddaf1dd65f07f0c2f45b8a0b540581d23c8869ea8fa5"
+    },
+    {
+      "filename": "CMP-training-126.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-126.csv",
+      "bytes": 805862,
+      "git_blob_sha": "c60cbfa001d1f0adb68cff9674f834e6b5443aeb",
+      "sha256": "e169900092641ae7e6c4b70ef853623be5baaac0e0f3822c0373eb9298d6739c"
+    },
+    {
+      "filename": "CMP-training-127.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-127.csv",
+      "bytes": 1458783,
+      "git_blob_sha": "47bbcf84d0f052bead70dd335fe67e6ae3ada639",
+      "sha256": "be56828a52e2995e1eea1d6253aff4dc58997f52827487527d52ef405facc53a"
+    },
+    {
+      "filename": "CMP-training-128.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-128.csv",
+      "bytes": 2703333,
+      "git_blob_sha": "c88beab479bfee54c243582c665cdee4fe07e215",
+      "sha256": "bf3b4887b509eb0a0f205b3c8d0254cc680553731782fd895077d1f813829eff"
+    },
+    {
+      "filename": "CMP-training-129.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-129.csv",
+      "bytes": 781491,
+      "git_blob_sha": "70b9eba3e3dba42f32572133d9dfaa99cd83e3a1",
+      "sha256": "98219f92322568210f0c0c6d2bc145d9e3474003439cc1fa787e23e82d115578"
+    },
+    {
+      "filename": "CMP-training-130.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-130.csv",
+      "bytes": 281044,
+      "git_blob_sha": "7e45dca33256ee5be69968993a9d3e3b5c405df3",
+      "sha256": "04dac0c085fb88385ecc1e10719808846955a819251032645314b2e073b45671"
+    },
+    {
+      "filename": "CMP-training-131.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-131.csv",
+      "bytes": 912736,
+      "git_blob_sha": "68f1c51f9a47ca71601dc46d82a0528de9aeeb3d",
+      "sha256": "98599afdad49380dfa0bddb00d6f28048e96773db37b32609a05473995f0218c"
+    },
+    {
+      "filename": "CMP-training-132.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-132.csv",
+      "bytes": 458211,
+      "git_blob_sha": "43ba2a7ebdd4f62216a568c8f6ab4bf8b81fd66d",
+      "sha256": "0610216b4e037fa42170e1bcb4f19fdfb5b7b9bcd119473d8e2d34fd55c02753"
+    },
+    {
+      "filename": "CMP-training-133.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-133.csv",
+      "bytes": 445481,
+      "git_blob_sha": "fa4d18adb42603c67f277a5452df57dfe2867450",
+      "sha256": "89f411662b26fc16f961f24900189867728aee08c817ad96285495d09ca134a0"
+    },
+    {
+      "filename": "CMP-training-134.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-134.csv",
+      "bytes": 677209,
+      "git_blob_sha": "a9c84b66b57763672b29fcd446c5cbac529dee27",
+      "sha256": "c469ebaba1ecc04d47477670c3f6d5e6b4d21c2af140d1a762691cd7dec8c9a8"
+    },
+    {
+      "filename": "CMP-training-135.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-135.csv",
+      "bytes": 226289,
+      "git_blob_sha": "b4cd9d70e1a2b0f36aeeda8d0929d18ecacc1152",
+      "sha256": "46b1fcc85d7a4581723cecbf78668fbe7b246b9822a12fb499610d5b1441ce1c"
+    },
+    {
+      "filename": "CMP-training-136.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-136.csv",
+      "bytes": 168395,
+      "git_blob_sha": "9c747aa628f895645ba2ec2af6511fe2abda5951",
+      "sha256": "16a7c2a4452119fa38bebac566a702334cb15066119aaebcd94a9786536a113e"
+    },
+    {
+      "filename": "CMP-training-137.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-137.csv",
+      "bytes": 753861,
+      "git_blob_sha": "96c735594f161bd1c299ed400e2eb82b0168c5c1",
+      "sha256": "a2f7d2f429944aa67f1b1c530937783c1887fe0465d28557f0b07f4632f7e41f"
+    },
+    {
+      "filename": "CMP-training-138.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-138.csv",
+      "bytes": 813628,
+      "git_blob_sha": "107d738bd7da262f33cdcac939c89abce5c86dcb",
+      "sha256": "97018d8651dfb6abba4a25805ccd1928a8527bfbc5c3b5927f4928fe03121373"
+    },
+    {
+      "filename": "CMP-training-139.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-139.csv",
+      "bytes": 987847,
+      "git_blob_sha": "96822a36822a79469e47b38e7aa099424eb34f82",
+      "sha256": "14d9aef5df7efb49270bc08a746ef6129ac0c09b3e7b9db156611bb8c9455772"
+    },
+    {
+      "filename": "CMP-training-140.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-140.csv",
+      "bytes": 688229,
+      "git_blob_sha": "beec5c0de004b8a266de4f6e5f09d12e6ad5f231",
+      "sha256": "fc95e69256a105c84a19f3ab421497c88c90860cf590454c892d2f65d1e4fa81"
+    },
+    {
+      "filename": "CMP-training-141.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-141.csv",
+      "bytes": 995645,
+      "git_blob_sha": "fd0f858ff7ab4757727e6f0423014c5790d5c870",
+      "sha256": "7bea48074d0c8c3b5b893902c3080806980c90baeff79583933ed41ea41ac0f3"
+    },
+    {
+      "filename": "CMP-training-142.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-142.csv",
+      "bytes": 1276184,
+      "git_blob_sha": "d1b864aee79f9eefdcf6db5845677a476ab7a8b2",
+      "sha256": "e4c9132eecdb77cf85aaeaf34c34071e770d459e701bb71e5cf147d60ad2f9d8"
+    },
+    {
+      "filename": "CMP-training-143.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-143.csv",
+      "bytes": 1125401,
+      "git_blob_sha": "77ad98a732d10a86dcf8fefb358c708464be3db8",
+      "sha256": "6b0298e30ed3f7ad62cd0d7cb6e67660a8dfdb60bccb511ade0c4268198f7496"
+    },
+    {
+      "filename": "CMP-training-144.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-144.csv",
+      "bytes": 129051,
+      "git_blob_sha": "5b0885f9610d2578fee16e37aa5b4c136b9c373c",
+      "sha256": "dea42678b0907118fd680145bd458533c9bd33286c62f20e710bc1df6e312fe3"
+    },
+    {
+      "filename": "CMP-training-145.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-145.csv",
+      "bytes": 629718,
+      "git_blob_sha": "04c38cf89860d3eb612e7b307cfff56da8c74567",
+      "sha256": "4b39dcfe2718310946b1e7354f8a21b8cad189b2647038f30019cae69474e3f1"
+    },
+    {
+      "filename": "CMP-training-146.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-146.csv",
+      "bytes": 1433657,
+      "git_blob_sha": "80818596508ba2c3fd4445f5a482df37f9fc2885",
+      "sha256": "94b209bc70cfa59b04ef853143dea9b8648df2e511c8a5dbdc5f8d12e56399be"
+    },
+    {
+      "filename": "CMP-training-147.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-147.csv",
+      "bytes": 362963,
+      "git_blob_sha": "28c074455ac66a9775a73fbc0486e0aea665cc15",
+      "sha256": "9ccad192e86b8adf96cb6a43b808abe79a6c75bf05f5da4256e1ef10af7d8b40"
+    },
+    {
+      "filename": "CMP-training-148.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-148.csv",
+      "bytes": 778470,
+      "git_blob_sha": "6f33b58454a81ad7fd6880875d9e22e072228156",
+      "sha256": "7fc9f539f0de62e527184b69586bd30301b34ed9da7977d87089c437c3099872"
+    },
+    {
+      "filename": "CMP-training-149.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-149.csv",
+      "bytes": 615367,
+      "git_blob_sha": "387f38f2915d2f5ed36f0f365185d42368e22499",
+      "sha256": "b9acf86a00ae82f821b0f3db74b1f5aa50a11a5935acbac8953376064543d29e"
+    },
+    {
+      "filename": "CMP-training-150.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-150.csv",
+      "bytes": 657371,
+      "git_blob_sha": "1e1a246a7cb6a37ab5d22289d05a3f6bf75ab8ad",
+      "sha256": "900efba9d4e904d25783407da1b305dd99a9a7849aa681a1e2aa208f3fc92256"
+    },
+    {
+      "filename": "CMP-training-151.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-151.csv",
+      "bytes": 918415,
+      "git_blob_sha": "1779ab578fbadc66ec50ce170d7d0b019a64d96c",
+      "sha256": "f5c11ce65bc234839fbc4f0acb1d698b9937e9af54aaf8d2258c977aa885c8a1"
+    },
+    {
+      "filename": "CMP-training-152.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-152.csv",
+      "bytes": 1588685,
+      "git_blob_sha": "601ec29a64760356077be7e99472fa655054eb8d",
+      "sha256": "12d302c164b61e163a652f1a8e2361b5f45d6cb82027481b2570855be8cbcb18"
+    },
+    {
+      "filename": "CMP-training-153.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-153.csv",
+      "bytes": 825878,
+      "git_blob_sha": "0e9de3e147669a8c116b6ccd230d5d2c05e519df",
+      "sha256": "1dbbe1562ef1e8f6001248c657a461f86776370180cf898178a5b4f0f120d877"
+    },
+    {
+      "filename": "CMP-training-154.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-154.csv",
+      "bytes": 487965,
+      "git_blob_sha": "6a8d9fbb4aea3f609b2f6f8f7eaf18fe1894cc8e",
+      "sha256": "c19c36923cef96ea9ff715e736abe8aa523f81440fde678fa79618582e5b7097"
+    },
+    {
+      "filename": "CMP-training-155.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-155.csv",
+      "bytes": 509739,
+      "git_blob_sha": "2944ef7345bc7673ecfe2af411cc866609edfa45",
+      "sha256": "b34bb52802b9c9eca424b6cf9b493a92294c53496969303072508f5260394895"
+    },
+    {
+      "filename": "CMP-training-156.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-156.csv",
+      "bytes": 144418,
+      "git_blob_sha": "9427964482ff3dd6c4a5202f63f68fc1ff040b0d",
+      "sha256": "2e9314cc41db4aad75bcbbc9ab7eb48412e6d7daf0483cc91bf71d1c58efc74a"
+    },
+    {
+      "filename": "CMP-training-157.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-157.csv",
+      "bytes": 1000894,
+      "git_blob_sha": "624d07cdc88731a7225e7c962b00277e4ed2aaeb",
+      "sha256": "a699b25b995bde1d6f86e12737f6f15c2b4ebe705ee33fd07695b2f349dd3a27"
+    },
+    {
+      "filename": "CMP-training-158.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-158.csv",
+      "bytes": 1620083,
+      "git_blob_sha": "7b35c0e6bf757c9b7117d2a75f815b4763caa8c1",
+      "sha256": "2af7442debb4d97ca630e662045b16f35cb85d34ba9c1e6c1a013bbd3e44e079"
+    },
+    {
+      "filename": "CMP-training-159.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-159.csv",
+      "bytes": 1127879,
+      "git_blob_sha": "a316639947a9806dc357dd4362e0e078faaed4e3",
+      "sha256": "7d655020a58e245d4067c4a5bbc42bff538d375544b749bd913bac9e2fa67f76"
+    },
+    {
+      "filename": "CMP-training-160.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-160.csv",
+      "bytes": 941106,
+      "git_blob_sha": "55b1e3f34ce573db7e0c356aff1c0f1a8082f752",
+      "sha256": "cebb6b2168e210a5886d6e95d25f95ec915f6ce8bcfa5fc758c985ae56af7a66"
+    },
+    {
+      "filename": "CMP-training-161.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-161.csv",
+      "bytes": 1363088,
+      "git_blob_sha": "8a17eee1ee707d962a04a78fae3bc2e3fbb2f752",
+      "sha256": "b0935813cbd1ce6b5b0dcc6a8858c2ff4b1ee1575a34ee4315cc257b2eabf934"
+    },
+    {
+      "filename": "CMP-training-162.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-162.csv",
+      "bytes": 781810,
+      "git_blob_sha": "1e614d6c955eb7a0ba67bcc81386f2a6b58bf15a",
+      "sha256": "2ee469879f10fe57893086fc0d57ad316cca990a9b294bb0fd9cda9a23215cec"
+    },
+    {
+      "filename": "CMP-training-163.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-163.csv",
+      "bytes": 825758,
+      "git_blob_sha": "02aa5e7c9cfc840cc55bebab8bf8bd26b90e29ba",
+      "sha256": "4f5b35cc830e5215d21f98fb19960b3766ac2b0b61ae5961b438869cbdd09ead"
+    },
+    {
+      "filename": "CMP-training-164.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-164.csv",
+      "bytes": 469809,
+      "git_blob_sha": "e3362f286ae7ae4c4571551e7e8d49846cf90e5e",
+      "sha256": "8df6738b27716e8a4b4b4e30eca95339258c5b5f18000fa7febd7c340ce0444e"
+    },
+    {
+      "filename": "CMP-training-165.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-165.csv",
+      "bytes": 235363,
+      "git_blob_sha": "26e7a6cd8037f9145194efab9840d4d8f160ae96",
+      "sha256": "99b90aa7cb98979486ec04211a94c0d329f864ebf31cb22451dbd00a93bed0bf"
+    },
+    {
+      "filename": "CMP-training-166.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-166.csv",
+      "bytes": 462210,
+      "git_blob_sha": "d66c5b7aa423bd7f0ee2b0b5c0220dfade8d68e9",
+      "sha256": "fdf6a18b7aff19041e64654f7df8def043938cb8351931ef3cb82dab0197c35b"
+    },
+    {
+      "filename": "CMP-training-167.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-167.csv",
+      "bytes": 594498,
+      "git_blob_sha": "5ec3e6be4148e17eda022acfda8887ea283b8204",
+      "sha256": "6c2e2224a0e8e3098491ff89a92599ac924f8d306df763fdc63681bff12306af"
+    },
+    {
+      "filename": "CMP-training-168.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-168.csv",
+      "bytes": 319745,
+      "git_blob_sha": "40ccda23c02cd461fabc9f90be6401aa7b107b30",
+      "sha256": "0baa85d6ecbf4a4d6969b80f0ba5f5a3bffba6e892ac601536f6bfd002acc51d"
+    },
+    {
+      "filename": "CMP-training-169.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-169.csv",
+      "bytes": 425994,
+      "git_blob_sha": "0c47bb4257fe0590ab8ef43f990fd19e301b98c1",
+      "sha256": "c5377aabe68a35a4b5e8aa952a3ef0637b44b1b481ea426f22074ae346b14d0b"
+    },
+    {
+      "filename": "CMP-training-170.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-170.csv",
+      "bytes": 114520,
+      "git_blob_sha": "a2df08c0b168a974cc04acdc9e642216e1042a69",
+      "sha256": "dc359474d63d284ce99bff04df9facca2961441818de2917637c427371b62475"
+    },
+    {
+      "filename": "CMP-training-171.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-171.csv",
+      "bytes": 734127,
+      "git_blob_sha": "7619717f8996ebfc71b69ec1252053785d66ca68",
+      "sha256": "d04c2c3bfe843800caca0c251ec701b3292e7d245b4bf60b2074535e81a9a70c"
+    },
+    {
+      "filename": "CMP-training-172.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-172.csv",
+      "bytes": 473738,
+      "git_blob_sha": "ba726f59044ef970cff4a1cbbdd8e1f4fad8b130",
+      "sha256": "18816752bc0695509c799ebb73db95997b7c37ebd8ff4d431aac6a35fa2107f5"
+    },
+    {
+      "filename": "CMP-training-173.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-173.csv",
+      "bytes": 447370,
+      "git_blob_sha": "6038e6398ca0480e75d4382ba88f79b91c24454d",
+      "sha256": "004e56072533f8dbe19243eb6ee794e3589511bd4f390b08b1aef4b0b331df12"
+    },
+    {
+      "filename": "CMP-training-174.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-174.csv",
+      "bytes": 632892,
+      "git_blob_sha": "3b7a8c64ac08e5704c044aca6ff74f09db81d072",
+      "sha256": "00d7aef4c53200fad06dc4ea24ada6d1cd669810e38f645cf85af4e9fe0564cc"
+    },
+    {
+      "filename": "CMP-training-175.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-175.csv",
+      "bytes": 170535,
+      "git_blob_sha": "fb6b9b172ad0ef1825180cdb1e57f1da66395b97",
+      "sha256": "849ca0cd3b2ccc58437e525140e9bff0139d66a9f24b0c64b921f909d823ae73"
+    },
+    {
+      "filename": "CMP-training-176.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-176.csv",
+      "bytes": 535051,
+      "git_blob_sha": "a90094e02dbc292a391dbaa290dceef9ac535705",
+      "sha256": "78dfd0f9cc2cc83cb01f89c143f1412b708b19e6e142d554894ba043d9531cf2"
+    },
+    {
+      "filename": "CMP-training-177.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-177.csv",
+      "bytes": 682016,
+      "git_blob_sha": "329041133fef51ce4b1ba4ce9ade70b26338db89",
+      "sha256": "574af1db47cdcd2faafefa4823b5cd9d6fe51a84652802a1f17433377842ab58"
+    },
+    {
+      "filename": "CMP-training-178.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-178.csv",
+      "bytes": 424971,
+      "git_blob_sha": "11403e4a3655dfd2b865517de8edfacfe97975cd",
+      "sha256": "e040e147ce95f3e919fd6ac610228e5dc1735561eb7562b093e71307500ece62"
+    },
+    {
+      "filename": "CMP-training-179.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-179.csv",
+      "bytes": 946825,
+      "git_blob_sha": "db78297915cca5bd14cc5019a9f3ab28a1a4b870",
+      "sha256": "61bbe08e8c21b4f18437097985dcd5a54d8bf29d3f46603142ca43be56ae50c2"
+    },
+    {
+      "filename": "CMP-training-180.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-180.csv",
+      "bytes": 606923,
+      "git_blob_sha": "3c2e72d7162ea5044a7a5d460e402931d690b35d",
+      "sha256": "8890d0676600ce81b7b90f340c2df00e864f5c7a17a0ba4844f6c24613f3a4d0"
+    },
+    {
+      "filename": "CMP-training-181.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-181.csv",
+      "bytes": 637369,
+      "git_blob_sha": "96a306c292729e0124d2d5a71a1a5c21039689ba",
+      "sha256": "19cd47ec7caa2f67a7d6e7b3d9661bc442e5519c88801b436156b08ff7544d9e"
+    },
+    {
+      "filename": "CMP-training-182.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-182.csv",
+      "bytes": 559481,
+      "git_blob_sha": "0ad1cf91fef13c00ae9aea0ed435da37e1e4ee75",
+      "sha256": "e0df6a7bff87f308a310773333bcbeeac65b5eaa901a45f7caa5d73168daf0b6"
+    },
+    {
+      "filename": "CMP-training-183.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-183.csv",
+      "bytes": 131002,
+      "git_blob_sha": "c97399ceb836b95155b081d8594e1e86677c4c81",
+      "sha256": "d3defe53d160e5742e01f6a53f97b4485e03eb80eccd6f4fa47a8bae9c9f4b5b"
+    },
+    {
+      "filename": "CMP-training-184.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-data/training/CMP-training-184.csv",
+      "bytes": 565378,
+      "git_blob_sha": "9a7ac5448b05a2164e021649206ff59f37e327eb",
+      "sha256": "eee177f99773585c50d5d2cebe1e75fc9b8fafb80d233aa9d4420ea96730d414"
+    },
+    {
+      "filename": "CMP-training-removalrate.csv",
+      "path": "data/2016 PHM Data Challenge/2016 PHM DATA CHALLENGE CMP DATA SET/CMP-training-removalrate.csv",
+      "bytes": 43095,
+      "git_blob_sha": "fa53a6257a333433c4c48a493c8e42b8f0d2a5f9",
+      "sha256": "5b22c120de02adb950b9162a4a40d2cb14ad4458751b3f9747da708ad1c78178"
+    }
+  ],
+  "processing": {
+    "raw_files": 185,
+    "raw_rows_after_exact_dedup": 670925,
+    "exact_duplicates_removed": 1819,
+    "all_groups": 1981,
+    "label_matches": 1981,
+    "output_stage": "A",
+    "output_rows": 1166,
+    "feature_map": {
+      "MAIN_OUTER_AIR_BAG_PRESSURE": "pressure_scaled",
+      "WAFER_ROTATION": "rotation_scaled",
+      "USAGE_OF_POLISHING_TABLE": "pad_usage_scaled",
+      "SLURRY_FLOW_LINE_C": "slurry_scaled"
+    },
+    "aggregation": "All available training trace rows for each WAFER_ID × STAGE, arithmetic mean; no active-phase filter; complete mirrored training file collection merged before grouping.",
+    "timestamp": "maximum original scaled TIMESTAMP per wafer-stage; ordering value, not calendar date",
+    "zero_rows": "retained; zero sensor values are not labeled as failures",
+    "provenance": "Public secondary mirror; source description checked against PHM Society. Not claimed to be Samsung/SK Hynix data.",
+    "sample_raw_wafer": "-4113511818"
+  }
+}
